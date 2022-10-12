@@ -115,10 +115,11 @@ li, ol {
     display: flex;
     flex-direction: row;
     align-items: space-between;
+    justify-content: space-between;
 }
 
 .lo-fi-imgs{
-    width: 40%;
+    width: 30%;
     height: auto;
     margin: 1rem;
 }
@@ -153,7 +154,7 @@ li, ol {
     justify-content: space-between;
 }
 .final-imgs{
-    width: 40%;
+    width: 30%;
     height: 75%;
     margin: 1rem;
 }
